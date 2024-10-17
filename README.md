@@ -1,6 +1,10 @@
+<div align="center">
+
 # Hi there! 👋 Welcome to My GitHub!
 
 <img src="https://github.com/user-attachments/assets/8578ef4c-0e1d-4407-8c42-6803c7a71d15" alt="Banner" width="600" />
+
+</div>
 
 I'm **Rocio!**, a passionate web developer constantly exploring new technologies. Here you'll find my projects, code experiments, and some cool stuff I’ve been working on. Let's connect and build something awesome together! 🚀
 
