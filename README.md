@@ -4,7 +4,34 @@
 
 <img src="https://github.com/user-attachments/assets/8578ef4c-0e1d-4407-8c42-6803c7a71d15" alt="Banner" width="600" />
 
+
+<!-- ICONOS DE REDES SOCIALES -->
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
+  </a>
+  <a href="mailto:rocioblivingston@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30">
+  </a>
+  <a href="https://www.notion.so/Rocio-Livingston-Design-Journal-0a092eccf69b4063bd379802b784478c" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" height="30">
+  </a>
+  <a href="https://www.instagram.com/chica.community?igsh=dmt5MXJueWRoZ253&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30">
+  </a>
+  <a href="https://www.youtube.com/@rociolivingston4477" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="30">
+  </a>
+  <a href="https://www.figma.com/proto/w4Wd4WTWQTXiAjlxgUzvfF/App-supermercado?node-id=344-469&t=SCx2JlNspCf3GPi0-1" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30">
+  </a>
+</p>
+
 </div>
+
+
 
 I'm **Rocio!**, a passionate web developer constantly exploring new technologies. Here you'll find my projects, code experiments, and some cool stuff I’ve been working on. Let's connect and build something awesome together! 🚀
 
@@ -15,7 +42,7 @@ I'm **Rocio!**, a passionate web developer constantly exploring new technologies
 I enjoy working with a wide range of technologies! Here’s a glance at the languages and tools I use frequently:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode,bootstrap&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,github,vscode,bootstrap&theme=light" alt="Tech Stack" />
 </div>
 
 ---
