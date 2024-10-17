@@ -36,6 +36,15 @@
 
 I'm **Rocio!**, a passionate web developer constantly exploring new technologies. Here you'll find my projects, code experiments, and some cool stuff I’ve been working on. Let's connect and build something awesome together! 🚀
 
+## 🌟 Courses and Certifications
+
+I am currently enrolled in a course at the MediaPila Foundation.
+
+<a href="https://mediapila.org.ar/la-fundacion/" target="_blank" style="text-decoration: none;">
+  <img src="logo-principal.png" alt="MediaPila" height="30" style="vertical-align: middle;">
+  <span style="font-size: 16px; margin-left: 8px; color: black;">MediaPila Course</span>
+</a>
+
 ---
 
 ## 🛠️ My Tech Stack
