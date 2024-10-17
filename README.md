@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/rocio-livingston" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
   </a>
   <a href="mailto:rocioblivingston@gmail.com" target="_blank">
