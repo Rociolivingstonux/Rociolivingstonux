@@ -65,19 +65,6 @@ I enjoy working with a wide range of technologies! Here’s a glance at the lang
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,github,vscode,bootstrap&theme=light" alt="Tech Stack" />
 </div>
 
----
-
-## 🌱 What I’m Currently Learning
-
-- Advanced **JavaScript** techniques and modern frameworks 🌐
-- Backend development with **Node.js** and **Express.js** 🖥️
-- Exploring the world of **Docker** and **Kubernetes** for containerization 🐳
-
----
-## 🛠️ Skills
-
-
-
 
 
 ## 💻 Projects
@@ -89,6 +76,7 @@ I enjoy working with a wide range of technologies! Here’s a glance at the lang
 
 
 ---
+<div align="center">
 
 ## 🎨 Hobbies
 
@@ -101,5 +89,29 @@ I enjoy working with a wide range of technologies! Here’s a glance at the lang
 
 ---
 
+## 🌱 What I’m Currently Learning
+
+- Advanced **JavaScript** techniques and modern frameworks 🌐
+- Backend development with **Node.js** and **Express.js** 🖥️
+- Exploring the world of **Docker** and **Kubernetes** for containerization 🐳
+
+---
+
+## 🛠️ Skills
+
+[![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png)](https://www.adobe.com/products/illustrator.html) 
+[![Figma](https://img.icons8.com/color/48/000000/figma.png)](https://www.figma.com/) 
+[![Inkscape](https://img.icons8.com/color/48/000000/inkscape.png)](https://inkscape.org/) 
+[![GIMP](https://img.icons8.com/color/48/000000/gimp.png)](https://www.gimp.org/) 
+[![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png)](https://www.adobe.com/products/photoshop.html) 
+[![TikTok](https://img.icons8.com/color/48/000000/tiktok.png)](https://www.tiktok.com/) 
+[![Meta Business](https://img.icons8.com/color/48/000000/meta.png)](https://www.facebook.com/business) 
+[![Discord](https://img.icons8.com/color/48/000000/discord.png)](https://discord.com/) 
+[![ChatGPT](https://img.icons8.com/color/48/000000/chatgpt.png)](https://www.openai.com/chatgpt) 
+[![GitHub Copilot](https://img.icons8.com/color/48/000000/github.png)](https://github.com/features/copilot) 
+[![Gemini](https://img.icons8.com/color/48/000000/gemini.png)](https://www.google.com/)
+
 ## 🌐 Find Me Online 
-![Developer GIF](https://media.giphy.com/media/3o7aD2saS6uK8U4h5W/giphy.gif)
+![Developer GIF](https://media.giphy.com/media/3o7aD2saS6uK8U4h5W/giphy.gif) 
+
+</div>
