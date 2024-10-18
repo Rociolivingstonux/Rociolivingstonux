@@ -82,10 +82,10 @@ I enjoy working with a wide range of technologies! Here’s a glance at the lang
 
 ## 💻 Projects
 
-|   | Ahorrata |   | LegalHub|   | E-Médica |   |
+|   | Project 1 |   | Project 2 |   | É-Médica |   |
 |---|-----------|---|-----------|---|-----------|---|
-|   | ![Project 1](ruta-de-la-imagen-1.png) |   | ![Project 2](ruta-de-la-imagen-2.png) |   | ![Project 3](ruta-de-la-imagen-3.png) |   |
-|   | **Project Title 1** <br> A short description. <br> [![Button](https://img.shields.io/badge/See_More-ff66cc?style=for-the-badge)](https://link-al-proyecto.com) |   | **Project Title 2** <br> A short description. <br> [![Button](https://img.shields.io/badge/See_More-ff66cc?style=for-the-badge)](https://link-al-proyecto.com) |   | **Project Title 3** <br> A short description. <br> [![Button](https://img.shields.io/badge/See_More-ff66cc?style=for-the-badge)](https://link-al-proyecto.com) |   |
+|   | <img src="E medica Portada.png" alt="Project 1" width="250"> |   | <img src="ruta-de-la-imagen-2.png" alt="Project 2" width="150"> |   | <img src="E medica Portada.png" alt="Project 3" width="250"> |   |
+|   | **Project Title 1** <br> A short description. <br> [![Button](https://img.shields.io/badge/See_More-ff66cc?style=for-the-badge)](https://link-al-proyecto.com) |   | **Project Title 2** <br> A short description. <br> [![Button](https://img.shields.io/badge/See_More-ff66cc?style=for-the-badge)](https://link-al-proyecto.com) |   | **UX UI Designer** <br> I developed a prototype for a medical app that provides virtual assistance quickly and securely. The goal was to improve healthcare access by offering consultations without delays, from anywhere.. <br> [![Button](https://img.shields.io/badge/See_More-ff66cc?style=for-the-badge)](https://www.behance.net/gallery/184023971/E-Medica) |   |
 
 
 ---
