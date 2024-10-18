@@ -66,13 +66,13 @@ I enjoy working with a wide range of technologies! Here’s a glance at the lang
 </div>
 
 
-
 ## 💻 Projects
 
 |   | Ahorrata |   | LegalHub |   | É-Médica |   |
 |---|-----------|---|-----------|---|-----------|---|
-|   | <img src="Ahorrata.png" alt="Project 1" width="250"> |   | <img src="LegalHub.png" alt="Project 2" width="250"> |   | <img src="E medica Portada.png" alt="Project 3" width="250"> |   |
-|   | **UX Research UI Designer** <br> I developed the prototype for Ahorrata, a budgeting app designed to help users save on supermarket shopping. I conducted user research to understand shopping habits and preferences, and created an intuitive UI focused on setting and tracking budgets, making saving easy and efficient. <br> [![Button](https://img.shields.io/badge/See_More-ff66cc?style=for-the-badge)](https://www.figma.com/proto/w4Wd4WTWQTXiAjlxgUzvfF/App-supermercado?node-id=428-1230&starting-point-node-id=428%3A1230) |   | **UI Designer** <br> I designed the prototype for LegalHub, an online legal services platform, and handled product organization. I led testing to ensure a smooth and secure user experience, connecting clients with legal experts. <br> [![Button](https://img.shields.io/badge/See_More-ff66cc?style=for-the-badge)](https://www.behance.net/gallery/183974027/Legal-Hub) |   | **UX UI Designer** <br> I developed a prototype for a medical app that provides virtual assistance quickly and securely. The goal was to improve healthcare access by offering consultations without delays, from anywhere.. <br> [![Button](https://img.shields.io/badge/See_More-ff66cc?style=for-the-badge)](https://www.behance.net/gallery/184023971/E-Medica) |   |
+|   | <div align="center"><img src="Ahorrata.png" alt="Project 1" width="250"></div> |   | <div align="center"><img src="LegalHub.png" alt="Project 2" width="250"></div> |   | <div align="center"><img src="E medica Portada.png" alt="Project 3" width="250"></div> |   |
+|   | **UX Research UI Designer** <br> I developed the prototype for Ahorrata, a budgeting app designed to help users save on supermarket shopping. I conducted user research to understand shopping habits and preferences, and created an intuitive UI focused on setting and tracking budgets, making saving easy and efficient. <br><br><div align="center">[![Button](https://img.shields.io/badge/See_More-ff66cc?style=for-the-badge)](https://www.figma.com/proto/w4Wd4WTWQTXiAjlxgUzvfF/App-supermercado?node-id=428-1230&starting-point-node-id=428%3A1230)</div> |   | **UI Designer** <br> I designed the prototype for LegalHub, an online legal services platform, and handled product organization. I led testing to ensure a smooth and secure user experience, connecting clients with legal experts. <br><br><div align="center">[![Button](https://img.shields.io/badge/See_More-ff66cc?style=for-the-badge)](https://www.behance.net/gallery/183974027/Legal-Hub)</div> |   | **UX UI Designer** <br> I developed a prototype for a medical app that provides virtual assistance quickly and securely. The goal was to improve healthcare access by offering consultations without delays, from anywhere. <br><br><div align="center">[![Button](https://img.shields.io/badge/See_More-ff66cc?style=for-the-badge)](https://www.behance.net/gallery/184023971/E-Medica)</div> |   |
+
 
 
 ---
