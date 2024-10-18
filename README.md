@@ -38,12 +38,22 @@ I'm **Rocio!**, a passionate web developer constantly exploring new technologies
 
 ## 🌟 Courses and Certifications
 
-I am currently enrolled in a course at the MediaPila Foundation.
+I am currently enrolled in a course at the MediaPila Foundation and Talento Tech.
 
-<a href="https://mediapila.org.ar/la-fundacion/" target="_blank" style="text-decoration: none;">
-  <img src="logo-principal.png" alt="MediaPila" height="30" style="vertical-align: middle;">
-  <span style="font-size: 16px; margin-left: 8px; color: black;">MediaPila Course</span>
-</a>
+<div style="margin-bottom: 10px;">
+  <a href="https://mediapila.org.ar/la-fundacion/" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center;">
+    <img src="logo-principal.png" alt="MediaPila" height="30" style="vertical-align: middle;">
+    <span style="font-size: 16px; margin-left: 8px; color: black;">MediaPila Course</span>
+  </a>
+</div>
+
+<div style="margin-bottom: 10px;">
+  <a href="https://inscripcionesagencia.bue.edu.ar/talentotech/courses" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center;">
+    <img src="https://inscripcionesagencia.bue.edu.ar/talentotech/img/logos-nav.webp" alt="MediaPila" height="30" style="vertical-align: middle;">
+    <span style="font-size: 16px; margin-left: 8px; color: black;">Programación con Python</span>
+  </a>
+</div>
+
 
 ---
 
@@ -66,14 +76,17 @@ I enjoy working with a wide range of technologies! Here’s a glance at the lang
 ---
 ## 🛠️ Skills
 
-| Skill         | Icon                                                     |
-|---------------|----------------------------------------------------------|
-| 💻 HTML       | ![HTML Icon](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  |
-| 🎨 CSS        | ![CSS Icon](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)        |
-| 📜 JavaScript | ![JavaScript Icon](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| 🐍 Python     | ![Python Icon](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  |
-| 📂 Git        | ![Git Icon](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)         |
-| 📐 Figma      | ![Figma Icon](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)    |
+
+
+
+
+## 💻 Projects
+
+|   | Ahorrata |   | LegalHub|   | E-Médica |   |
+|---|-----------|---|-----------|---|-----------|---|
+|   | ![Project 1](ruta-de-la-imagen-1.png) |   | ![Project 2](ruta-de-la-imagen-2.png) |   | ![Project 3](ruta-de-la-imagen-3.png) |   |
+|   | **Project Title 1** <br> A short description. <br> [![Button](https://img.shields.io/badge/See_More-ff66cc?style=for-the-badge)](https://link-al-proyecto.com) |   | **Project Title 2** <br> A short description. <br> [![Button](https://img.shields.io/badge/See_More-ff66cc?style=for-the-badge)](https://link-al-proyecto.com) |   | **Project Title 3** <br> A short description. <br> [![Button](https://img.shields.io/badge/See_More-ff66cc?style=for-the-badge)](https://link-al-proyecto.com) |   |
+
 
 ---
 
